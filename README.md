@@ -1,7 +1,7 @@
 <div align="center">
   <h1>About Me</h1>
   <h3>Hi there! I'm Nikko Bansil 👋</h3>
-  <p>I'm a full-stack web developer based in Vancouver.</p>
+  <p>I'm a full-stack web developer based in Calgary.</p>
   <br />
 </div>
 <div>
